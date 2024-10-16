@@ -1,0 +1,7 @@
+.captcha {
+    display: block;
+    border: 2px solid var(--bs-border-color);
+    width: var(--width);
+    height: var(--height);
+    background: var(--image);
+}
